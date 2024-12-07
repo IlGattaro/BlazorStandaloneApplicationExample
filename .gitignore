@@ -1,0 +1,9 @@
+.vs/
+.config/
+*.user
+*.suo
+/obj
+*.obj
+[Dd]ebug*/
+#Nuget packages folder
+packages/
