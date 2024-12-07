@@ -1,0 +1,2 @@
+# BlazorStandaloneApplicationExample
+Simple Blazor Server standalone application example
